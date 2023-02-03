@@ -79,13 +79,7 @@ Install thr project dependencies with:
   bundle install
 ```
 
-### Usage <a name="usage"></a>
-
-To run the project, execute the following command:
-
-```
-  ruby decode.rb
-```
+<!--  -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
