@@ -46,9 +46,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Decodes a morse character
-- Decodes a morse word
-- Decodes a morse message
+- Create new teacher
+- Create new student
+- Create new book
+- Records details of rental
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
